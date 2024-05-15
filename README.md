@@ -56,13 +56,13 @@ https://github.com/yousefosama654/Logic-Lens/assets/87082462/6fd6422e-b0ab-4f4a-
   <tr>
    <td align="center">
     <a href="https://github.com/Omar-Said-4" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/87082462?v=4" width="150px;" alt="Ahmed Samy"/>
+    <img src="https://avatars.githubusercontent.com/u/87082462?v=4" width="150px;" alt="Omar Said"/>
     <br />
     <sub><b>Omar Said</b></sub></a>
     </td>
    <td align="center">
     <a href="https://github.com/yousefosama654" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/93356614?v=4" width="150px;" alt="Kareem Samy"/>
+    <img src="https://avatars.githubusercontent.com/u/93356614?v=4" width="150px;" alt="YOusef Osama"/>
     <br />
     <sub><b>Yousef Osama</b></sub></a>
     </td>
